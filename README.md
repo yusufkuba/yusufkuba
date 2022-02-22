@@ -4,7 +4,7 @@
 - 🪐 Additionally, I got a three-year of experience in program planning and communication role, and a one-year of experience as a community facilitator.
 - ✨ Now, I'm actively learning digital marketing and VCSs.
 - 🐱‍🏍 I’m open to collaboration in localisation, content writing, marketing, and communication projects.
-- 🖱 Browse my Portfolio Page, or you can reach me at yusufquba@gmail.com
+- 🖱 Feel free to browse my Portfolio Page, or you can reach me at yusufquba@gmail.com
 
 Best,
 
