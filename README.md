@@ -1,8 +1,9 @@
 - 👋 Hi! My name is Muhammad Yusuf.
-- 👀 I’m an English studies graduate with a Bachelor of Education in English and an Associate Degree in Business English from State University of Makassar.
-- 🎓 I’ve also recently completed a PGCert from the University of Auckland specialising in Management.
-- 🪐 In short, I'm a Digital Educational Content Creator passionate about crafting engaging, data-driven, and accessible learning experiences.
-- 💼 With a background in digital content, social media strategy, and educational learning design, I aspire to blend educational content with strategic insights to maximise learning impact.
+
+  👀 I’m an English studies graduate with a Bachelor of Education in English and an Associate Degree in Business English from State University of Makassar. I’ve also recently completed a PGCert from the University of Auckland specialising in Management.
+
+  🪐 In short, I'm a Digital Educational Content Creator passionate about crafting engaging, data-driven, and accessible learning experiences. With a background in digital content, social media strategy, and educational learning design, I aspire to blend educational content with strategic insights to maximise learning impact.
+  
 - 💡 What I Do
 
 📚 Educational Content Creation – Designing structured, engaging, and research-based learning materials.
