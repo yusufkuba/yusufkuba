@@ -1,6 +1,6 @@
 👋 Hi! My name is Muhammad Yusuf.
 
-👀 I’m an English studies graduate with a Bachelor of Education in English and an Associate Degree in Business English from State University of Makassar. I’ve also recently completed a PGCert from the University of Auckland specialising in Management.
+👀 I’m an English studies graduate with a Bachelor of Education in English and an Associate Degree in Business English from State University of Makassar. I’ve also completed a PGCert from the University of Auckland specialising in Management.
 
 🪐 As a Digital Educational Content Creator, I'm passionate about crafting engaging, data-driven, and accessible learning experiences. With a background in digital content, social media strategy, and educational learning design, I aspire to blend educational content with strategic insights to maximise learning impact.
   
@@ -10,7 +10,6 @@
     🎥 Multimedia & Digital Learning Development – Creating interactive content with visuals and interactive videos.
     🖥 E-learning & Social Learning Strategies – Developing content for online platforms, especially on social media.
     ✍ SEO-Optimised Learning Materials – Applying keyword research and audience insights for better discoverability.
-    🔎 User-Centered Learning Design – Ensuring content is intuitive, accessible, and impactful.
     📊 Content Performance Analytics – Tracking engagement metrics to refine and improve learning experiences.
 
 
@@ -26,7 +25,7 @@
     - SEO & Analytics: ahrefs, Screamingfrog, SEO Minion
     - Languages: English (C1), Bahasa Indonesia (C2), Malay (Conversational)
 
-🔎 I'm excited to collaborate with educators, content creators, and digital strategists to innovate in the learning space. Let’s share ideas and create impactful learning experiences together!
+🔎 I'm excited to collaborate with educators, content creators, and digital strategists to innovate in the learning space.
   
 🖱 Feel free to browse my Portfolio Page [https://yusufkuba.github.io/portfolio/], or simply reach me at yusufquba@gmail.com
 
