@@ -1,9 +1,41 @@
 - 👋 Hi! My name is Muhammad Yusuf.
-- 👀 I’m an English studies graduate with a B.Ed in English and an Associate Degree in Business English from State University of Makassar.
-- 🌱 I’ve also recently completed a PGCert from the University of Auckland specializing in Management.
-- 🪐 Additionally, I got a three-year of experience in program planning and communication role, and a one-year of experience as a community facilitator.
-- ✨ Now, I'm actively learning digital marketing and VCSs.
-- 🐱‍🏍 I’m open to collaboration in localisation, content writing, marketing, and communication projects.
+- 👀 I’m an English studies graduate with a Bachelor of Education in English and an Associate Degree in Business English from State University of Makassar.
+- 🎓 I’ve also recently completed a PGCert from the University of Auckland specialising in Management.
+- 🪐 In short, I'm a Digital Educational Content Creator passionate about crafting engaging, data-driven, and accessible learning experiences.
+- 💼 With a background in digital content, social media strategy, and educational learning design, I aspire to blend educational content with strategic insights to maximise learning impact.
+- 💡 What I Do
+
+📚 Educational Content Creation – Designing structured, engaging, and research-based learning materials.
+
+🎥 Multimedia & Digital Learning Development – Creating interactive content with visuals and interactive videos.
+
+🖥 E-learning & Social Learning Strategies – Developing content for online platforms, especially on social media.
+
+✍ SEO-Optimised Learning Materials – Applying keyword research and audience insights for better discoverability.
+
+🔎 User-Centered Learning Design – Ensuring content is intuitive, accessible, and impactful.
+
+📊 Content Performance Analytics – Tracking engagement metrics to refine and improve learning experiences.
+
+
+- 📂 Projects You'll Find Here
+
+📝 SEO-optimised educational content and audience engagement.
+
+🎮 Gamification video-based quiz content.
+
+🚀 Experiments with AI in education content.
+
+- ⚡ Tools & Skills
+
+Content & Design: Canva, ChatGPT, Google Trends, Keyword Planner
+
+SEO & Analytics: ahrefs, Screamingfrog, SEO Minion
+
+Languages: English (C1), Bahasa Indonesia (C2), Malay (Conversational)
+
+- I'm excited to collaborate with educators, content creators, and digital strategists to innovate in the learning space. Let’s share ideas and create impactful learning experiences together!
+  
 - 🖱 Feel free to browse my Portfolio Page [https://yusufkuba.github.io/portfolio/], or simply reach me at yusufquba@gmail.com
 
 Best,
